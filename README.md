@@ -1,2 +1,2 @@
 # MyGnGn-Token
-This a GNaira Token Smart Contract
+This a GNaira Token Smart Contract.
