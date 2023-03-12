@@ -4,4 +4,4 @@ Smart Contract Link (Replit) = https://replit.com/@odoemegoodness/MyGngnTokensol
 
 # MyGnGn-Token
 This a GNaira Token Smart Contract.
-This is a smart contract with ERC20 standard. Included functionalities are, Minting of new token currency ,  Burning of token currency , Blacklisting of addresses to prevent them from sending and receiving tokens. A specific contract account assigned with the role of ‘GOVERNOR with actions like minting, burning and blacklisting is exclusive to the ‘GOVERNOR’ .
+This is a smart contract with ERC20 standard. Included functionalities are, Minting of new token currency ,  Burning of token currency , Blacklisting of addresses to prevent them from sending and receiving tokens. A specific contract account assigned with the role of ‘GOVERNOR with actions like minting, burning and blacklisting is exclusive to the ‘GOVERNOR’,and also ethereum's Keccak 265 hash function was implemented. 
