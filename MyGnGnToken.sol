@@ -44,7 +44,7 @@ contract GNaira is ERC20, Ownable {
 
 
 
-contract GNGNToken is ERC20, AccessControl {
+contract GNaira is ERC20, AccessControl {
     using EnumerableSet for EnumerableSet.AddressSet;
 
     bytes32 public constant GOVERNOR_ROLE = keccak256("GOVERNOR_ROLE");
